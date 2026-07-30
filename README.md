@@ -42,12 +42,10 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
-<img src="coding.png">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Mahnoor%20Fatima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="assets/coding.png" width="700"/>
 </p>
-
 ---
 
 ## 🌸 Current Project
