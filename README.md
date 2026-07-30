@@ -71,11 +71,11 @@ Features:
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-12004&layout=compact&theme=radical)
+  <img src="assets/coding.png" width="700"/>
+</p>
 </p>
 
 ---
