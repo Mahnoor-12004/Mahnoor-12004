@@ -40,13 +40,8 @@
 
 ---
 
+
 ## 💻 Tech Stack
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Mahnoor%20Fatima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-<img src="assets/coding.png" width="700"/>
-</p>
----
 
 ## 🌸 Current Project
 
@@ -70,9 +65,9 @@ Features:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-12004&layout=compact&theme=radical" />
 </p>
-
 
 ## 🌼 What I'm Working On
 
