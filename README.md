@@ -101,9 +101,9 @@ Features:
 
 ## 🤝 Let's Connect
 
-📧 Email: **your-email@example.com**
+📧 Email:**mahnoor233026@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/your-profile**
+💼 LinkedIn: **https:linkedin.com/in/mahnoor-fatima-2356a6406**
 
 ---
 
