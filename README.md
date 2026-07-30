@@ -2,39 +2,70 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Mahnoor%20Fatima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">💖 Aspiring Full Stack Developer 💖</h2>
+<h2 align="center">🚀 Frontend Developer in Progress | Future Full Stack Developer</h2>
 
 <p align="center">
 🌸 BS Computer Science Student <br>
-💻 Learning Web Development <br>
-🚀 Building Projects One Step at a Time
+💻 Passionate about Web Development <br>
+🌱 Learning, Building & Growing Every Day
 </p>
+
+---
+
+## 🌸 About Me
+
+✨ I'm a Computer Science student who enjoys turning ideas into beautiful and responsive websites.
+
+💖 I believe every project is an opportunity to learn something new.
+
+🚀 My goal is to become a confident Full Stack Developer by continuously improving my frontend and backend skills.
 
 ---
 
 ## 🌱 Current Journey
 
-✔ HTML
+✅ HTML5
 
-✔ CSS
+✅ CSS3
 
-✔ JavaScript
+✅ JavaScript (ES6)
 
-✔ Bootstrap
+✅ Bootstrap
 
-✔ Git & GitHub
+✅ Git & GitHub
 
-🔄 Learning DSA
+🔜 Starting Backend Development
 
-⏳ React (Next)
+🎯 Working toward becoming a Full Stack Developer
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
+
 </p>
+
+---
+
+## 🌸 Current Project
+
+### ✨ Glow Cosmetics
+
+A responsive cosmetics website built with:
+
+- 🌷 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 💜 Bootstrap
+
+Features:
+- Responsive Layout
+- Product Cards
+- Contact Form
+- Modern UI Design
 
 ---
 
@@ -50,12 +81,38 @@
 
 ---
 
-## ✨ Quote
+## 🌼 What I'm Working On
 
-> "Success doesn't come from what you know. It comes from what you keep learning."
+🌸 Strengthening my frontend skills
+
+🚀 Beginning my backend development journey
+
+💡 Building projects that help me become a better developer
+
+📚 Learning something new every day
+
+---
+
+## 💭 A Quote I Like
+
+> *"Great developers aren't born—they're built one project at a time."* 🌷
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: **your-email@example.com**
+
+💼 LinkedIn: **https://linkedin.com/in/your-profile**
 
 ---
 
 <p align="center">
-🌸 Thanks for visiting my profile! 🌸
+
+### 🌷 Thanks for stopping by!
+
+*"Every expert was once a beginner. I'm excited for the journey ahead."* 💖
+
+⭐ Feel free to explore my repositories and follow along as I continue learning and building.
+
 </p>
