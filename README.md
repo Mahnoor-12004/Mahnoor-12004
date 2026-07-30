@@ -65,8 +65,10 @@ Features:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-12004&layout=compact&theme=radical" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-12004&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 </p>
 
 ## 🌼 What I'm Working On
