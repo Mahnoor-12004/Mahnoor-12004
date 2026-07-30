@@ -73,10 +73,9 @@ Features:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-12004&layout=compact&theme=radical"/>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-12004&layout=compact&theme=radical)
 </p>
 
 ---
