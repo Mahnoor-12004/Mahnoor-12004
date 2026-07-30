@@ -71,14 +71,10 @@ Features:
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="assets/coding.png" width="700"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical"/>
 </p>
 
----
 
 ## 🌼 What I'm Working On
 
