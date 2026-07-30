@@ -1,14 +1,61 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Mahnoor%20Fatima&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-# 🌸 Mahnoor Fatima
+<h2 align="center">💖 Aspiring Full Stack Developer 💖</h2>
 
-**Frontend Web Developer | CS Undergrad | Aspiring Full-Stack Developer**
+<p align="center">
+🌸 BS Computer Science Student <br>
+💻 Learning Web Development <br>
+🚀 Building Projects One Step at a Time
+</p>
 
-```text
-✨ Crafting clean, responsive, and aesthetic web experiences ✨
-👩‍💻 About Me
-Hi there! I'm Mahnoor, a Computer Science undergrad passionate about frontend web development and user interface design. I love building intuitive, clean, and colorful web applications that solve real-world problems.🎨 Core Focus: Building modern dynamic frontends using React & JavaScript.⚙️ Next Up: Deep-diving into backend technologies to complete my full-stack journey.💡 Interests: Responsive design, UI/UX aesthetics, and clean code principles.🎨 Tech Stack & Skills💻 Frontend DevelopmentTechnologyBadgeStatusReactActive BuildingJavaScriptCore SkillHTML5Core SkillCSS3Core SkillBootstrapFramework🛠️ Tools & Workflow📌 Featured Work & Goals🎯 Current Focus: Building fully responsive front-end projects with clean component structure and modular CSS layout design.Plaintext 🚀 Ongoing Journey:
- ├── 🎨 Frontend Architecture (React / JavaScript)
- ├── 💅 Modern UI Styling & Layout Systems
- └── ⚙️ Backend Integration (In Progress)
-“Simplicity is the soul of efficiency.”Thanks for stopping by! ✨
+---
+
+## 🌱 Current Journey
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+✔ Bootstrap
+
+✔ Git & GitHub
+
+🔄 Learning DSA
+
+⏳ React (Next)
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahnoor-12004&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-12004&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+## ✨ Quote
+
+> "Success doesn't come from what you know. It comes from what you keep learning."
+
+---
+
+<p align="center">
+🌸 Thanks for visiting my profile! 🌸
+</p>
